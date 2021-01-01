@@ -394,7 +394,7 @@ const styles = StyleSheet.create({
 
   flatListStyle: {
     maxHeight: "85%",
-    minHeight: "35%"
+    minHeight: "70%"
   },
   iconGPSStyle: {
     alignItems: "center",
